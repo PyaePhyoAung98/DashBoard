@@ -1,5 +1,5 @@
 # boss_dashboard
-<img src=""/>
+<img src="dashboard.png"/>
 <br>
 
 ## Project setup
