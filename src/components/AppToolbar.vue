@@ -42,7 +42,7 @@
 
     <v-main>
       <v-container>
-        <v-row justify="center" align="center">
+        <v-row>
           <v-col class="shrink">
             <router-view></router-view>
           </v-col>
@@ -61,7 +61,7 @@ export default {
     drawer: null,
     items: [
       { icon: "mdi-home", text: "Home", router: "/" },
-      { icon: "mdi-account-group", text: "ABout", router: "/about" },
+      { icon: "mdi-account-group", text: "About", router: "/about" },
       { icon: "mdi-trending-up", text: "Trending" },
       { icon: "mdi-history", text: "History" },
     ],

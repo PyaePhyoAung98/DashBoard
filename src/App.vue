@@ -1,6 +1,7 @@
 <template>
   <div id="app">
     <app-toolbar></app-toolbar>
+    
   </div>
 </template>
 
@@ -11,12 +12,7 @@ export default {
   name: "App",
 
   components: {
-    AppToolbar,
-   
-  },
-
-  data: () => ({
-    //
-  }),
+    AppToolbar
+  }
 };
 </script>
