@@ -1,4 +1,6 @@
 # boss_dashboard
+<img src=""/>
+<br>
 
 ## Project setup
 ```
